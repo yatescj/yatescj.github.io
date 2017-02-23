@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "**ROLLER COASTERS ARE FUN RIGHT?**"
-date:   2017-02-23 16:30:22 +0000
+title:  "ROLLER COASTERS ARE FUN RIGHT?"
+date:   2017-02-23 11:30:23 -0500
 ---
 
 
